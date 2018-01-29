@@ -1,0 +1,2 @@
+- http://www.cars-data.com/en/lexus-gs-300h-business-line-specs/70674
+- https://www.fueleconomy.gov/feg/download.shtml
