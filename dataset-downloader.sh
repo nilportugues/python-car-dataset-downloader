@@ -5,7 +5,6 @@ do
 	
 	mkdir -p "./carset/acura,cl,$color";
 	python downloader.py --search "acura cl" --num_images 100 --color $color --directory "./carset/acura,cl,$color";
-	exit 0
 
 	mkdir -p "./carset/acura,integra,$color";
 	python downloader.py --search "acura integra" --num_images 100 --color $color --directory "./carset/acura,integra,$color";
